@@ -1,4 +1,4 @@
-console.log('I caused a merge conflict');
+console.log('Kaile caused a merge conflict');
 
 function add(a, b) {
     return a + b;
